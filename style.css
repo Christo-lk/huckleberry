@@ -7,6 +7,47 @@ html,
 body {
   margin: 0;
   padding: 0;
+  height: 100%;
 }
 
 /* Add styles here! */
+
+strong{
+  color:green;
+}
+
+.max-width-wrapper{
+  height: 50%;
+  padding-top:20px;
+}
+
+
+.intro-chunk{
+  margin: 0 auto;
+  /* margin-top:40px; */
+  width: 300px;
+}
+
+header p{
+  margin:40px 0
+}
+
+section{
+  background-color: gray;
+}
+
+.card{
+  background-color: white;
+  width: 500px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.second-title{
+  width:fit-content;
+  background: yellow;
+  margin: 0px;
+  margin-left:-40px;
+  padding: 5px 20px;
+  
+}
